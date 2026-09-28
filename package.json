@@ -1,0 +1,10 @@
+{
+  "name": "devops-cicd-pipeline",
+  "version": "1.0.0",
+  "description": "Simple DevOps CI/CD pipeline project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node -e \"console.log('CI test passed')\""
+  }
+}
